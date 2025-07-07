@@ -21,7 +21,7 @@ To integrate HAPtick into your Xcode project using Swift Package Manager, add it
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/aannuuj/haptick.git", from: "1.0.0")
+    .package(url: "https://github.com/aannuuj/HAPTick-Video", from: "1.0.0")
 ]
 ```
 
